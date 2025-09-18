@@ -1,4 +1,4 @@
 :root { --bg: #fff; --text: #111; --accent: #0066ff; }
-body { font-family: Arial, sans-serif; padding: 1.5rem; background: var(--bg); color: var(--text); }
+body { font-family: "Comic Sans MS", cursive, sans-serif; }
 button { padding: .5rem .8rem; border-radius: 6px; cursor: pointer; }
 body.dark { --bg: #121212; --text: #eee; --accent: #66b2ff; }
